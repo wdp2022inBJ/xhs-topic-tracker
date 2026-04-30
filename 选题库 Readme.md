@@ -12,4 +12,6 @@
 
 ## 使用
 
-直接访问 GitHub Pages 链接即可，数据自动保存在本地浏览器。
+直接访问：https://wdp2022inbj.github.io/xhs-topic-tracker/
+
+数据保存在本地浏览器（localStorage），换设备/换浏览器收藏不保留，请悉知。
